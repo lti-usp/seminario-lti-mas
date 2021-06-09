@@ -8,10 +8,10 @@ Ciclo de apresentações atual:
 * João Paulo Aragão Pereira - (Título a definir)
 
 ### 18/Jun/21
-* (a definir)
+* Gabriel Mariano - (Título a definir)
 
 ### 25/Jun/21
-* (a definir)
+* Luiz Braz - (Título a definir)
 
 ### 02/Jul/21
 * (a definir)
@@ -20,10 +20,10 @@ Ciclo de apresentações atual:
 * (a definir)
 
 ### 16/Jul/21
-* (a definir)
+* Sóstenes - (Título a definir)
 
 ### 23/Jul/21
 * (a definir)
 
 ### 30/Jul/21
-* (a definir)
+* Gustavo Mesquita - (Título a definir)
