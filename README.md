@@ -5,7 +5,7 @@ Este repositório contém as apresentações realizadas nos seminários de Siste
 Ciclo de apresentações atual:
 
 ### 11/Jun/21
-* João Paulo Aragão Pereira - (Título a definir)
+* João Paulo Aragão Pereira - UM MODELO HÍBRIDO PARA PREVER A OSCILAÇÃO GLICÊMICA EM INDIVÍDUOS COM DIABETES TIPO 1 E SUGERIR RECOMENDAÇÕES PERSONALIZADAS
 
 ### 18/Jun/21
 * Gabriel Mariano - (Título a definir)
