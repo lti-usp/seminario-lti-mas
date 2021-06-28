@@ -8,13 +8,10 @@ Ciclo de apresentações atual:
 * João Paulo Aragão Pereira - UM MODELO HÍBRIDO PARA PREVER A OSCILAÇÃO GLICÊMICA EM INDIVÍDUOS COM DIABETES TIPO 1 E SUGERIR RECOMENDAÇÕES PERSONALIZADAS
 
 ### 18/Jun/21
-* Gabriel Mariano - (Título a definir)
-
-### 25/Jun/21
-* Luiz Braz - (Título a definir)
+* Gabriel Mariano - Detecção de potenciais fraudes de identidade em Sistemas de Controle de Acesso Físico baseada em anomalias em Trajetórias de Grupos
 
 ### 02/Jul/21
-* (a definir)
+* Luiz Braz - (Título a definir)
 
 ### 09/Jul/21
 * (a definir)
