@@ -11,7 +11,7 @@ Ciclo de apresentações atual:
 * Gabriel Mariano - Detecção de potenciais fraudes de identidade em Sistemas de Controle de Acesso Físico baseada em anomalias em Trajetórias de Grupos
 
 ### 02/Jul/21
-* Luiz Braz - (Título a definir)
+* Luiz Braz - A study of MBTI for modeling multiagent systems to support the formation of high-performance teams in companies
 
 ### 09/Jul/21
 * (a definir)
@@ -23,4 +23,4 @@ Ciclo de apresentações atual:
 * (a definir)
 
 ### 30/Jul/21
-* Gustavo Mesquita - (Título a definir)
+* (a definir)
