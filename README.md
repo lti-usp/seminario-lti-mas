@@ -20,7 +20,7 @@ Ciclo de apresentações atual:
 * Sóstenes - (Título a definir)
 
 ### 23/Jul/21
-* (a definir)
+* Márcio Stabile - (Título a definir)
 
 ### 30/Jul/21
 * (a definir)
